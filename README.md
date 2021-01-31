@@ -17,3 +17,10 @@ Jeg bruger salus integrationen, jeg har lavet små tiltag til at bruge error22 o
 
 Unifi protect:
 https://github.com/briis/unifiprotect
+
+
+Miele:
+
+https://github.com/HomeAssistant-Mods/home-assistant-miele
+
+
